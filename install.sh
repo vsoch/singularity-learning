@@ -4,4 +4,3 @@ sh ./autogen.sh
 ./configure --prefix=/usr/local
 make
 sudo make install
-sudo make install-perms
