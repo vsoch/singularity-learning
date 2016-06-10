@@ -1,0 +1,2 @@
+Name: curl
+Exec: /usr/bin/curl
